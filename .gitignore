@@ -1,0 +1,5 @@
+.gradle
+.idea
+build
+terraform
+.DS_Store
